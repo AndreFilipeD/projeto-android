@@ -106,6 +106,7 @@ div.video > iframe{
 h2{
     font-size: 2em;
     font-family: 'Android', 'cursive', sans-serif;
+    text-align: left;
     margin-bottom: 20px;
     color: #004400;
 }
